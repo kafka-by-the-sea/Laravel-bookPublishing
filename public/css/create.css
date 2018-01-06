@@ -1,0 +1,17 @@
+.well-block {
+    background-color: #fff;
+    border: 1px solid #e9e6e8;
+    padding: 40px;
+}
+
+.well-title {
+    margin-bottom: 20px;
+}
+
+.col-md-6 {
+    padding: 6px;
+}
+
+.col-md-12 {
+    padding: 6px;
+}
